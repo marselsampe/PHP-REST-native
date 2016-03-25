@@ -1,4 +1,4 @@
-# PHP-RESTful-native
+# PHP-REST-native
 Sample of REST API build with native PHP. <br/>
 Use PDO to manipulate MySQL database.<br/>
 There also sample of client that access the API.
