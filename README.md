@@ -6,7 +6,7 @@ There also sample of client that access the API.
 
 # setting
 #### .htaccess
-Configure url in .htacess based with your path
+Configure url in .htaccess based with your path
 ```
 RewriteRule ^(.*)$ /nativerest/api/index.php
 ```
